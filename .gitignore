@@ -1,0 +1,6 @@
+# Metadata files
+*.csv
+*.pickle
+checksums
+
+#IPython checkpoints
